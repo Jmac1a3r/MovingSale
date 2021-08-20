@@ -1,0 +1,19 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  text-align: center;
+  color: red;
+}
+
+h2 {
+  font-family: cursive;
+  text-align: center;
+}
+
+.pblock {
+  display: inline-block;
+}
